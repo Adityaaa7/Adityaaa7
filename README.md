@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Aditya Jagtap 👋
 
-<!--
-**Adityaaa7/Adityaaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer | 🚀 Building real-world applications with AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🎓 B.Tech Student
+* 🧠 Interested in building **real-world applications + AI integration**
+* 💡 Passionate about solving practical problems using technology
+* 🧩 Solved **300+ problems on LeetCode (Java)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SmartMeet AI
+
+🔗 https://github.com/Adityaaa7/Smartmeet_AI
+
+AI-powered meeting assistant that:
+
+* 📄 Generates **role-based summaries**
+* ✅ Extracts **action items automatically**
+* 💬 Supports **Q&A using transformer-based models**
+
+👉 Focus:real-world productivity
+
+---
+
+### 🔹 Aarogya AI
+
+AI-powered healthcare assistant that:
+
+* 🩺 Predicts diseases from symptoms
+* 📊 Analyzes lab reports intelligently
+* 🤖 Provides smart health insights
+
+**Tech Stack:**
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* Python (for AI models)
+
+👉 Focus: Healthcare + AI + Full Stack
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+
+* Java
+* JavaScript
+
+**Web Development:**
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+**Tools:**
+
+* Git & GitHub
+* Postman
+* VS Code
+
+---
+
+## 📈 Coding Profile
+
+* 💻 LeetCode: https://leetcode.com/u/adityajagtap0705/
+* 🧩 Solved **300+ DSA problems in Java**
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/aditya-jagtap-a5580028a/
+* 📧 Email: [adityajagtap0705@gmail.com](mailto:adityajagtap0705@gmail.com)
+
+---
+
+## ⚡ What I'm Currently Working On
+
+* Improving full-stack + AI integration skills
+* Building impactful real-world projects
+
+---
