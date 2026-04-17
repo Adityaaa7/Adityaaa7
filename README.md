@@ -31,6 +31,8 @@ AI-powered meeting assistant that:
 
 ### 🔹 Aarogya AI
 
+🔗 https://github.com/Adityaaa7/AAROGYA_AI3
+
 AI-powered healthcare assistant that:
 
 * 🩺 Predicts diseases from symptoms
